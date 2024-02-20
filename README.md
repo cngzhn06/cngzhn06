@@ -5,7 +5,7 @@
 
 - 🚀 Also, I've developed wide variety of web services with **NodeJS & ReactJS**
 
-- 📫 How to reach me **my@cengizhancaliskan.com.tr**
+- 📫 How to reach me **cngzhnc06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
